@@ -11,4 +11,4 @@ Features:
 * 40-pin header in correct location
 
 3D rendering:
-![3D rendering](pihat.png)
+![3D rendering](meta/pihat.png)
